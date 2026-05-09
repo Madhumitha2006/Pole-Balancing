@@ -1,4 +1,4 @@
-# EX.1  Pole Balancing using Reinforcement Learning
+# EX.1 Pole Balancing using Reinforcement Learning
 ## Date: 09-05-2026
 
 ## Aim
